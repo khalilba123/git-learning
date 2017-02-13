@@ -7,4 +7,7 @@ class ProblemSolver
 
   def solve_tough_problem
   end
+
+  def solve_khalil_problem
+  end
 end
